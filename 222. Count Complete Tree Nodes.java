@@ -1,5 +1,5 @@
 /**
- * Definition for a binary tree node.
+ * Definition for binary tree node.
  * public class TreeNode {
  *     int val;
  *     TreeNode left;
